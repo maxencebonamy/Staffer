@@ -1,0 +1,1 @@
+export { getDepartmentManager } from "./department-manager.action"

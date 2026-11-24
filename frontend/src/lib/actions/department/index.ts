@@ -1,0 +1,1 @@
+export { getAllDepartments, getDepartment, createDepartment, updateDepartment, deleteDepartment } from "./department.action"

@@ -1,0 +1,1 @@
+export type { EventFor } from "./event.type"

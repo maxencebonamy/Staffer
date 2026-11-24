@@ -1,0 +1,1 @@
+export type FormStateHookResponse<T> = [T, (value: T) => void]
